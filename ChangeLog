@@ -1,3 +1,318 @@
+2018-03-12  Sveinn í Felli  <sv1@fellsnet.is>
+
+	Update Icelandic translation
+
+2018-03-10  Милош Поповић  <gpopac@gmail.com>
+
+	Update Serbian Latin translation
+
+2018-03-08  Ask Hjorth Larsen  <asklarsen@gmail.com>
+
+	Updated Danish translation
+
+2018-03-07  gogo  <trebelnik2@gmail.com>
+
+	Update Croatian translation
+
+2018-03-06  A S Alam  <aalam@users.sf.net>
+
+	Updated Punjabi Translation
+
+2018-03-06  Efstathios Iosifidis  <eiosifidis@gnome.org>
+
+	Update Greek translation
+
+2018-03-06  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.27.92
+
+2018-03-03  Baurzhan Muftakhidinov  <baurthefirst@gmail.com>
+
+	Update Kazakh translation
+
+2018-03-03  Aurimas Černius  <aurisc4@gmail.com>
+
+	Updated Lithuanian translation
+
+2018-03-02  Bruce Cowan  <bruce@bcowan.eu>
+
+	Update British English translation
+
+2018-03-02  GNOME Translation Robot  <gnome-sysadmin@gnome.org>
+
+	Update Scottish Gaelic translation
+
+	(cherry picked from commit 74735e1ae6c3606972f64953a5055ead14b1e47d)
+
+2018-03-01  Claude Paroz  <claude@2xlibre.net>
+
+	Update French translation
+
+2018-02-26  Dušan Kazik  <prescott66@gmail.com>
+
+	Update Slovak translation
+
+2018-02-26  Milo Casagrande  <milo@ubuntu.com>
+
+	Update Italian translation
+
+2018-02-24  Rūdolfs Mazurs  <rudolfsm@src.gnome.org>
+
+	Update Latvian translation
+
+2018-02-22  GNOME Translation Robot  <gnome-sysadmin@gnome.org>
+
+	Update Dutch translation
+
+2018-02-20  Cheng-Chia Tseng  <pswo10680@gmail.com>
+
+	Update Chinese (Taiwan) translation
+
+2018-02-19  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Remove help/C/l10n.txt
+
+	How did it even survive to see 2018?
+
+2018-02-17  Fran Dieguez  <frandieguez@gnome.org>
+
+	Update Galician translation
+
+2018-02-10  Emin Tufan Çetin  <etcetin@gmail.com>
+
+	Update Turkish translation
+
+2018-02-09  Enrico Nicoletto  <liverig@gmail.com>
+
+	Update Brazilian Portuguese translation
+
+2018-02-09  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.27.90
+
+2018-02-05  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Update Polish translation
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Add destructive action style to process kill confirmation
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Better alignment for network stats on Resources (bgo#789603)
+
+2018-02-03  Mike Gorse  <mgorse@suse.com>
+
+	Enclose the resources tab in a GtkScrolledWindow (bgo#778697)
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Fix warning on column resize
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Add minimum width for columns to avoid disappearing (bgo#788327)
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Refresh loadgraph on theme change
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Add a subtle gradient to the loadgraphs (bgo#792360)
+
+2018-02-03  Robert Roth  <robert.roth.off@gmail.com>
+
+	Support searching for multiple tokens (bgo#789905)
+
+2018-01-24  Voldemar Khramtsov  <harestomper@gmail.com>
+
+	Patch that fixes background color of graphs (bgo#792360).
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=792360
+
+2018-01-24  Aldo Nogueira  <aldo.nogueira@gmail.com>
+
+	Scroll process table to the selected row.
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=792574
+
+2018-01-24  Ting-Wei Lan  <lantw@src.gnome.org>
+
+	Fix desktop files generation by adding rules to merge translations
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=790570
+
+2018-01-24  Ting-Wei Lan  <lantw@src.gnome.org>
+
+	Fix gschema validation error caused by missing file
+
+	We cannot and should not merge translations into gschema files.
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=790570
+
+2018-01-21  Balázs Úr  <balazs@urbalazs.hu>
+
+	Update Hungarian translation
+
+2018-01-09  Jiri Grönroos  <jiri.gronroos@iki.fi>
+
+	Update Finnish translation
+
+2017-12-26  Anders Jonsson  <anders.jonsson@norsjovallen.se>
+
+	Update Swedish translation
+
+2017-12-25  Марко Костић  <marko.m.kostic@gmail.com>
+
+	Update Serbian translation
+
+2017-12-20  Daniel Mustieles  <daniel.mustieles@gmail.com>
+
+	Updated Spanish translation
+
+2017-12-15  Shiv Dhar  <shivdhar@gmail.com>
+
+	Fix reversed disk read/write columns (bgo#788923)
+
+2017-12-03  Kukuh Syafaat  <syafaatkukuh@gmail.com>
+
+	Update Indonesian translation
+
+2017-11-28  Benoît Dejean  <bdejean@gmail.com>
+
+	Move load_graph data from float to natural double.
+
+2017-11-28  Benoît Dejean  <bdejean@gmail.com>
+
+	Use glib new g_format_size_full flags instead of custom function.
+
+2017-11-28  Benoît Dejean  <bdejean@gmail.com>
+
+	Drop the max_rate/max_size arguments for format_*. This may introduce UI regression int graph scales. But that's the only way to use the generic g_format_size_full instead.
+
+2017-11-14  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.27.2
+
+2017-11-11  Kjartan Maraas  <kmaraas@gnome.org>
+
+	Updated Norwegian bokmål translation.
+
+2017-11-10  Robert Roth  <robert.roth.off@gmail.com>
+
+	Install appdata to the new location (bgo#790146)
+
+2017-11-09  gogo  <trebelnik2@gmail.com>
+
+	Update Croatian translation
+
+2017-11-08  Kjartan Maraas  <kmaraas@gnome.org>
+
+	Updated Norwegian bokmål translation.
+
+2017-11-06  Mario Blättermann  <mario.blaettermann@gmail.com>
+
+	Update German translation
+
+2017-11-05  Fabio Tomat  <f.t.public@gmail.com>
+
+	Update Friulian translation
+
+2017-11-02  Marek Cernocky  <marek_cernocky@conel.cz>
+
+	Updated Czech translation
+
+2017-11-01  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Remove intltool markers from the KDE .desktop file
+
+	Also add translator comments.
+
+2017-11-01  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Fix translator comment in the .desktop file
+
+2017-11-01  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Remove intltool markers from the .policy file
+
+2017-11-01  Robert Roth  <robert.roth.off@gmail.com>
+
+	Gettext migration improvements based on feedback (bgo#786944)
+
+2017-11-01  Robert Roth  <robert.roth.off@gmail.com>
+
+	Migrate from intltool
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=786944
+
+2017-11-01  Robert Roth  <robert.roth.off@gmail.com>
+
+	Migrate from gnome-common
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=786944
+
+2017-10-31  Daniel van Vugt  <daniel.van.vugt@canonical.com>
+
+	Fix inaccurate %CPU values in the Processes table
+
+	Multi-core machines were displaying inaccurate %CPU values due to a
+	loss of precision from performing integer division before multiplication.
+	This changes the order of operations so that no precision is lost, and
+	now all machines will display process %CPU values to within 1% accuracy.
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=788922
+	Signed-off-by: Benoît Dejean <bdejean@gmail.com>
+
+2017-10-21  Piotr Drąg  <piotrdrag@gmail.com>
+
+	help: Add missing figure to HELP_MEDIA
+
+	It was forgotten in 03f2dafdc60d192269bfbd3a46ab20add0979c99,
+	causing the icon to not be displayed in Yelp.
+
+2017-10-21  Charles Monzat  <superboa@hotmail.fr>
+
+	Update French translation
+
+2017-10-21  Mingcong Bai  <jeffbai@aosc.xyz>
+
+	Update zh_CN translation
+
+2017-10-19  Isak Östlund  <translate@catnip.nu>
+
+	Add Swedish help translation
+
+2017-10-18  Pawan Chitrakar  <chautari@gmail.com>
+
+	Update Nepali translation
+
+2017-10-05  Xavi Ivars  <xavi.ivars@gmail.com>
+
+	[l10n] Updated Catalan (Valencian) translation
+
+2017-10-05  Evangelos Skarmoutsos  <skarmoutsosv@gmail.com>
+
+	Update Greek translation
+
+2017-09-30  Arash Mousavi  <mousavi.arash@gmail.com>
+
+	[L10N] Update Persian translation
+
+2017-09-18  Piotr Drąg  <piotrdrag@gmail.com>
+
+	Update Polish translation
+
+2017-09-12  hanniedu  <hannie@ubuntu-nl.org>
+
+	Updated Dutch translation Master 3.26
+
+2017-09-11  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.26.0
+
 2017-09-10  Anders Jonsson  <anders.jonsson@norsjovallen.se>
 
 	Update Swedish translation
