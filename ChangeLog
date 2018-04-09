@@ -1,3 +1,34 @@
+2018-04-09  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.28.1
+
+2018-04-07  Benoît Dejean  <bdejean@gmail.com>
+
+	Fix bytes to bits conversion.
+
+	Patch by atkinson.tommy@nsoft.com
+	https://bugzilla.gnome.org/show_bug.cgi?id=795051
+
+2018-03-26  Guillaume Bernard  <associations@guillaume-bernard.fr>
+
+	Update French translation
+
+2018-03-23  Dz Chen  <wsxy162@gmail.com>
+
+	Update zh_CN translation
+
+2018-03-20  Matej Urbančič  <mateju@svn.gnome.org>
+
+	Added Slovenian translation
+
+2018-03-13  Stas Solovey  <whats_up@tut.by>
+
+	Update Russian translation
+
+2018-03-13  Robert Roth  <robert.roth.off@gmail.com>
+
+	Prepared release 3.28.0
+
 2018-03-12  Sveinn í Felli  <sv1@fellsnet.is>
 
 	Update Icelandic translation
