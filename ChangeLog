@@ -1,3 +1,23 @@
+2018-05-09  Ognjen Galic  <smclt30p@gmail.com>
+
+	dialog: use short process name instead of full
+
+	When there is a long process name, the name of the
+	process in the kill dialog is show in full. This is a problem
+	because long process names (such as google chrome) cause the dialog
+	to extend all the way across the room.
+
+	This patch fixes that by just displaying the short process name
+	without the command line parameters.
+
+	Signed-off-by: Ognjen Galic <smclt30p@gmail.com>
+
+	https://bugzilla.gnome.org/show_bug.cgi?id=788066
+
+2018-04-17  Jordi Mas  <jmas@softcatala.org>
+
+	Update Catalan translation
+
 2018-04-09  Robert Roth  <robert.roth.off@gmail.com>
 
 	Prepared release 3.28.1
