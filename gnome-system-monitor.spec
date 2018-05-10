@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 3.28.2
-Release  : 4
+Release  : 5
 URL      : https://download.gnome.org/sources/gnome-system-monitor/3.28/gnome-system-monitor-3.28.2.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/3.28/gnome-system-monitor-3.28.2.tar.xz
 Summary  : No detailed summary available
