@@ -1,0 +1,6 @@
+3.30.0
+appstream-glib
+pkgconfig(giomm-2.4)
+pkgconfig(gtkmm-3.0)
+pkgconfig(libgtop-2.0)
+pkgconfig(librsvg-2.0)
