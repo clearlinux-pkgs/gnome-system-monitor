@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 3.30.0
-Release  : 6
+Release  : 7
 URL      : https://download.gnome.org/sources/gnome-system-monitor/3.30/gnome-system-monitor-3.30.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/3.30/gnome-system-monitor-3.30.0.tar.xz
 Summary  : No detailed summary available
