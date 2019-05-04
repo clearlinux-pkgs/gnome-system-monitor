@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 3.32.1
-Release  : 10
+Release  : 11
 URL      : https://download.gnome.org/sources/gnome-system-monitor/3.32/gnome-system-monitor-3.32.1.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/3.32/gnome-system-monitor-3.32.1.tar.xz
 Summary  : View current processes and monitor system state
@@ -97,7 +97,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1556990369
+export SOURCE_DATE_EPOCH=1557006217
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
 export NM=gcc-nm
