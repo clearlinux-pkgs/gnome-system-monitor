@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 3.32.1
-Release  : 11
+Release  : 12
 URL      : https://download.gnome.org/sources/gnome-system-monitor/3.32/gnome-system-monitor-3.32.1.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/3.32/gnome-system-monitor-3.32.1.tar.xz
 Summary  : View current processes and monitor system state
