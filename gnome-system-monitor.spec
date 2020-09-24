@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 3.38.0
-Release  : 14
+Release  : 15
 URL      : https://download.gnome.org/sources/gnome-system-monitor/3.38/gnome-system-monitor-3.38.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/3.38/gnome-system-monitor-3.38.0.tar.xz
 Summary  : No detailed summary available
