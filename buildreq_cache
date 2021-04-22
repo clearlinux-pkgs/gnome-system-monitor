@@ -1,4 +1,4 @@
-3.38.0
+40.0
 appstream-glib
 glibmm-dev
 gtkmm3-dev
@@ -6,4 +6,5 @@ librsvg-dev
 pkgconfig(giomm-2.4)
 pkgconfig(gtkmm-3.0)
 pkgconfig(libgtop-2.0)
+pkgconfig(libhandy-1)
 pkgconfig(librsvg-2.0)
