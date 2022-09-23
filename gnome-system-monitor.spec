@@ -4,7 +4,7 @@
 #
 Name     : gnome-system-monitor
 Version  : 42.0
-Release  : 20
+Release  : 21
 URL      : https://download.gnome.org/sources/gnome-system-monitor/42/gnome-system-monitor-42.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-system-monitor/42/gnome-system-monitor-42.0.tar.xz
 Summary  : No detailed summary available
