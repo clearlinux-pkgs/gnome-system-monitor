@@ -1,3 +1,26 @@
+New in 45.0 - 16 August 2023
+
+* Updated translations
+* Fixed dconf error handling #258 #254 #259 (Lanchon)
+* Avoid network spike when monitored interfaces change (Lanchon)
+
+New in 45.beta - 03 August 2023
+
+* Updated translations
+* Settings write should be async and delayed #254 (Robert Roth)
+* Use Terminate instead of End process #237 (Robert Roth)
+* Make affinity strings translatable #209 (Robert Roth)
+* Fixed gschema descriptions to match column names #169 (Robert Roth)
+
+New in 45.alpha - 28 June 2023
+
+* Updated translations
+* Add placeholder text to the search entry #244 !68 (Automeris naranja)
+* Remove unused ctime_r check !67 (Florian Weimer)
+* Don't move main window to left/top screen on start on multi-screen #246 !66 (Igor Kushnir)
+* Use action-name properties !64 (Sabri Ünal)
+* Fixed issue with displaying wrong icon proceeding process name !65 (Maciej Czekaj)
+
 New in 44.0 - 17 March 2023
 
 * Updated translations
