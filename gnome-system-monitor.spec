@@ -4,10 +4,10 @@
 # Using build pattern: meson
 #
 Name     : gnome-system-monitor
-Version  : 45.0
-Release  : 24
-URL      : https://download.gnome.org/sources/gnome-system-monitor/45/gnome-system-monitor-45.0.tar.xz
-Source0  : https://download.gnome.org/sources/gnome-system-monitor/45/gnome-system-monitor-45.0.tar.xz
+Version  : 45.0.2
+Release  : 25
+URL      : https://download.gnome.org/sources/gnome-system-monitor/45/gnome-system-monitor-45.0.2.tar.xz
+Source0  : https://download.gnome.org/sources/gnome-system-monitor/45/gnome-system-monitor-45.0.2.tar.xz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : GPL-2.0
@@ -95,10 +95,10 @@ locales components for the gnome-system-monitor package.
 
 
 %prep
-%setup -q -n gnome-system-monitor-45.0
-cd %{_builddir}/gnome-system-monitor-45.0
+%setup -q -n gnome-system-monitor-45.0.2
+cd %{_builddir}/gnome-system-monitor-45.0.2
 pushd ..
-cp -a gnome-system-monitor-45.0 buildavx2
+cp -a gnome-system-monitor-45.0.2 buildavx2
 popd
 
 %build
@@ -106,7 +106,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1692217329
+export SOURCE_DATE_EPOCH=1695684070
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
