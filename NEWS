@@ -1,3 +1,38 @@
+New in 46.0 - 16 March 2024
+
+* Updated translations
+* style: Blend header bar with window contents !126 (kramo)
+
+New in 46.rc - 2 March 2024
+
+* Updated translations
+* interface: Readd Delete key as shortcut to end process !128 (Óscar Fernández Díaz)
+* Fixed memory leak in affinity change !129 (Yannis Gerlach)
+* Updated app links !130 (Óscar Fernández Díaz)
+* Metainformation improvements: correct developer and platform added (Sophie Herold)
+
+New in 46.beta - 11 February 2024
+
+* Updated translations
+* Fixed several memory leaks (Barnabás Pőcze)
+* Fixed several plotting issues (Barnabás Pőcze)
+* Partial rework of graph class hierarchy (Robert Roth)
+* Remember window state #295 (Óscar Fernández Díaz)
+* Renamed appdata to match desktop file !124 (Óscar Fernández Díaz)
+
+New in 46.alpha - 6 January 2024
+
+* Updated translations
+* Application ported to GTK4 (Ondřej Míchal)
+* Fixed shortcuts #262 (Robert Roth)
+* Fixed highcontrast graph labels #266 (Robert Roth)
+* Fixed argument type mismatch !82 (Barnabás Pőcze)
+* Updated UI to match Human Interface Guidelines !84 (Automeris Naranja)
+* Ported various application components to adwaita (Óscar Fernández Díaz)
+* Added flatpak build manifest !113 (Óscar Fernández Díaz)
+* Various code improvements (Óscar Fernández Díaz)
+* Appdata updates !114 (Sabri Ünal)
+
 New in 45.0.2 - 16 September 2023
 
 * Updated translations
