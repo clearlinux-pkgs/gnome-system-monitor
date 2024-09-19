@@ -1,3 +1,32 @@
+New in 47.0 - 14 September 2024
+
+* Updated translations
+* Fix blurred background on HiDPI screens !160 #300 (Qiu Wenbo)
+
+New in 47.rc - 31 August 2024
+
+* Updated translations
+* Minor improvements in defaults and settings loading (Óscar Fernández Díaz)
+
+New in 47.beta - 2 August 2024
+
+* Updated translations
+* Fix help and version crashing the application #260 !148 (luiz)
+* UI modernization for dialogs and disks view !150, !152, !153, !154 (Óscar Fernández Díaz)
+* Improve initial loadgraph points #248 !151 (Luiz França)
+
+New in 47.alpha - 29 June 2024
+
+* Updated translations
+* Improved flatpak app icon search !132 (Óscar Fernández Díaz)
+* Set affinity for all tasks !134 (Yannis Gerlach)
+* Use new Adwaita adaptive dialogs !125 (Óscar Fernández Díaz)
+* Use same translatable for CPU charts and affinty #203 (Robert Roth)
+* Several migrations from deprecated treeview to columnview (Óscar Fernández Díaz)
+* Migrate color button to GtkColorDialog (Óscar Fernández Díaz)
+* Add one column per group of 32 core labels !144 (Yannis Guyon)
+* Various interface improvements to match HIG (Óscar Fernández Díaz)
+
 New in 46.0 - 16 March 2024
 
 * Updated translations
