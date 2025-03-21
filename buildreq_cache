@@ -1,5 +1,6 @@
-47.1
+48.0
 librsvg-dev
+pkgconfig(catch2-with-main)
 pkgconfig(giomm-2.68)
 pkgconfig(gtkmm-4.0)
 pkgconfig(libadwaita-1)
